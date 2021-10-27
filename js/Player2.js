@@ -195,7 +195,7 @@ export default class Player2 extends Phaser.Physics.Arcade.Sprite {
 
       }
 
-
+      //девочка атакует
       if (this.inputKeys.space.isDown) {
          this.girl_attack_r();
       }
