@@ -15,7 +15,7 @@ const createAligned = (scene, count, texture, scrollFactor) => {
      x += m.width;
   }
 }
-//Comment
+//Comment1
 var BootScene = new Phaser.Class({
     Extends: Phaser.Scene,
      initialize:
